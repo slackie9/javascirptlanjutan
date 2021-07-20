@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Slackie",
+        "nim": "062406104",
+        "email": "slackie@mail.com",
+        "jurusan": "Computer Science",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Mayuki",
+        "nim": "092101069",
+        "email": "mayuki@mail.com",
+        "jurusan": "Computer Science",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Dracois",
+        "nim": "062406107",
+        "email": "dracois@mail.com",
+        "jurusan": "Computer Science",
+        "idDosenWali": 3
+    }
+]
